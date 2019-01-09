@@ -1,0 +1,5 @@
+x=int(input('x='))
+y=int(input('y='))
+z=int(input('z='))
+f=(((x**5+7)/(6*y))**(1/3))/(7-z//y)
+print('f={:.3f}'.format(f))

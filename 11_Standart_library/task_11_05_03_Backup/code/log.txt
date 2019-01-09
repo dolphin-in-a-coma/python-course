@@ -1,0 +1,1475 @@
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Всего файлов скопированно: 0
+Время завершения: 2017-09-22 19:39:55.976439Затраченное время: 0.002499
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Всего файлов скопированно: 0
+Время завершения: 2017-09-22 19:40:24.616813Затраченное время: 0.001933
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Всего файлов скопированно: 0
+Время завершения: 2017-09-22 19:44:12.243992Затраченное время: 0.002
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Всего файлов скопированно: 0
+Время завершения: 2017-09-22 19:47:09.965363
+Затраченное время: 0.001501
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Всего файлов скопированно: 0
+Время завершения: 2017-09-22 19:47:33.189698
+Затраченное время: 0.001963
+Во время работы возникла ошибки:
+	name 'os' is not defined
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Всего файлов скопированно: 0
+Время завершения: 2017-09-22 19:48:44.495298
+Затраченное время: 0.035134
+Во время работы возникла ошибки:
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+	'template'
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Копирование файлов.
+Время начала: {}
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-22 20:49:15.655823
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-22 20:51:16.714747
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-22 20:54:55.709916
+Файлы: 
+	main.py
+	Queue.json
+	queue.py
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+Копирование файлов.
+Время начала: 2017-09-22 20:57:45.109984
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD1 (elem) 10.mp3
+	New English File Class CD1 (elem) 11.mp3
+	New English File Class CD1 (elem) 12.mp3
+	New English File Class CD1 (elem) 13.mp3
+	New English File Class CD1 (elem) 14.mp3
+	New English File Class CD1 (elem) 15.mp3
+	New English File Class CD1 (elem) 16.mp3
+	New English File Class CD1 (elem) 17.mp3
+	New English File Class CD1 (elem) 18.mp3
+	New English File Class CD1 (elem) 19.mp3
+	New English File Class CD1 (elem) 20.mp3
+	New English File Class CD1 (elem) 21.mp3
+	New English File Class CD1 (elem) 22.mp3
+	New English File Class CD1 (elem) 23.mp3
+	New English File Class CD1 (elem) 24.mp3
+	New English File Class CD1 (elem) 25.mp3
+	New English File Class CD1 (elem) 26.mp3
+	New English File Class CD1 (elem) 27.mp3
+	New English File Class CD1 (elem) 28.mp3
+	New English File Class CD1 (elem) 29.mp3
+	New English File Class CD1 (elem) 30.mp3
+	New English File Class CD1 (elem) 31.mp3
+	New English File Class CD1 (elem) 32.mp3
+	New English File Class CD1 (elem) 33.mp3
+	New English File Class CD1 (elem) 34.mp3
+	New English File Class CD1 (elem) 35.mp3
+	New English File Class CD1 (elem) 36.mp3
+	New English File Class CD1 (elem) 37.mp3
+	New English File Class CD1 (elem) 38.mp3
+	New English File Class CD1 (elem) 39.mp3
+	New English File Class CD1 (elem) 40.mp3
+	New English File Class CD1 (elem) 41.mp3
+	New English File Class CD1 (elem) 42.mp3
+	New English File Class CD1 (elem) 43.mp3
+	New English File Class CD1 (elem) 44.mp3
+	New English File Class CD1 (elem) 45.mp3
+	New English File Class CD1 (elem) 46.mp3
+	New English File Class CD1 (elem) 47.mp3
+	New English File Class CD1 (elem) 48.mp3
+	New English File Class CD1 (elem) 49.mp3
+	New English File Class CD1 (elem) 50.mp3
+	New English File Class CD1 (elem) 51.mp3
+	New English File Class CD1 (elem) 52.mp3
+	New English File Class CD1 (elem) 53.mp3
+	New English File Class CD1 (elem) 54.mp3
+	New English File Class CD1 (elem) 55.mp3
+	New English File Class CD1 (elem) 56.mp3
+	New English File Class CD1 (elem) 57.mp3
+	New English File Class CD1 (elem) 58.mp3
+	New English File Class CD1 (elem) 59.mp3
+	New English File Class CD1 (elem) 60.mp3
+	New English File Class CD1 (elem) 61.mp3
+	New English File Class CD1 (elem) 62.mp3
+	New English File Class CD1 (elem) 63.mp3
+	New English File Class CD1 (elem) 64.mp3
+	New English File Class CD1 (elem) 65.mp3
+	New English File Class CD1 (elem) 66.mp3
+	New English File Class CD1 (elem) 67.mp3
+	New English File Class CD1 (elem) 68.mp3
+	New English File Class CD1 (elem) 69.mp3
+	New English File Class CD1 (elem) 70.mp3
+	New English File Class CD1 (elem) 71.mp3
+	New English File Class CD1 (elem) 72.mp3
+	New English File Class CD1 (elem) 73.mp3
+	New English File Class CD1 (elem) 74.mp3
+	New English File Class CD1 (elem) 75.mp3
+	New English File Class CD1 (elem) 76.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD2 (elem) 10.mp3
+	New English File Class CD2 (elem) 11.mp3
+	New English File Class CD2 (elem) 12.mp3
+	New English File Class CD2 (elem) 13.mp3
+	New English File Class CD2 (elem) 14.mp3
+	New English File Class CD2 (elem) 15.mp3
+	New English File Class CD2 (elem) 16.mp3
+	New English File Class CD2 (elem) 17.mp3
+	New English File Class CD2 (elem) 18.mp3
+	New English File Class CD2 (elem) 19.mp3
+	New English File Class CD2 (elem) 20.mp3
+	New English File Class CD2 (elem) 21.mp3
+	New English File Class CD2 (elem) 22.mp3
+	New English File Class CD2 (elem) 23.mp3
+	New English File Class CD2 (elem) 24.mp3
+	New English File Class CD2 (elem) 25.mp3
+	New English File Class CD2 (elem) 26.mp3
+	New English File Class CD2 (elem) 27.mp3
+	New English File Class CD2 (elem) 28.mp3
+	New English File Class CD2 (elem) 29.mp3
+	New English File Class CD2 (elem) 30.mp3
+	New English File Class CD2 (elem) 31.mp3
+	New English File Class CD2 (elem) 32.mp3
+	New English File Class CD2 (elem) 33.mp3
+	New English File Class CD2 (elem) 34.mp3
+	New English File Class CD2 (elem) 35.mp3
+	New English File Class CD2 (elem) 36.mp3
+	New English File Class CD2 (elem) 37.mp3
+	New English File Class CD2 (elem) 38.mp3
+	New English File Class CD2 (elem) 39.mp3
+	New English File Class CD2 (elem) 40.mp3
+	New English File Class CD2 (elem) 41.mp3
+	New English File Class CD2 (elem) 42.mp3
+	New English File Class CD2 (elem) 43.mp3
+	New English File Class CD2 (elem) 44.mp3
+	New English File Class CD2 (elem) 45.mp3
+	New English File Class CD2 (elem) 46.mp3
+	New English File Class CD2 (elem) 47.mp3
+	New English File Class CD2 (elem) 48.mp3
+	New English File Class CD2 (elem) 49.mp3
+	New English File Class CD2 (elem) 50.mp3
+	New English File Class CD2 (elem) 51.mp3
+	New English File Class CD2 (elem) 52.mp3
+	New English File Class CD2 (elem) 53.mp3
+	New English File Class CD2 (elem) 54.mp3
+	New English File Class CD2 (elem) 55.mp3
+	New English File Class CD2 (elem) 56.mp3
+	New English File Class CD2 (elem) 57.mp3
+	New English File Class CD2 (elem) 58.mp3
+	New English File Class CD2 (elem) 59.mp3
+	New English File Class CD2 (elem) 60.mp3
+	New English File Class CD2 (elem) 61.mp3
+	New English File Class CD2 (elem) 62.mp3
+	New English File Class CD2 (elem) 63.mp3
+	New English File Class CD2 (elem) 64.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+	New English File Class CD3 (elem) 10.mp3
+	New English File Class CD3 (elem) 11.mp3
+	New English File Class CD3 (elem) 12.mp3
+	New English File Class CD3 (elem) 13.mp3
+	New English File Class CD3 (elem) 14.mp3
+	New English File Class CD3 (elem) 15.mp3
+	New English File Class CD3 (elem) 16.mp3
+	New English File Class CD3 (elem) 17.mp3
+	New English File Class CD3 (elem) 18.mp3
+	New English File Class CD3 (elem) 19.mp3
+	New English File Class CD3 (elem) 20.mp3
+	New English File Class CD3 (elem) 21.mp3
+	New English File Class CD3 (elem) 22.mp3
+	New English File Class CD3 (elem) 23.mp3
+	New English File Class CD3 (elem) 24.mp3
+	New English File Class CD3 (elem) 25.mp3
+	New English File Class CD3 (elem) 26.mp3
+	New English File Class CD3 (elem) 27.mp3
+	New English File Class CD3 (elem) 28.mp3
+	New English File Class CD3 (elem) 29.mp3
+	New English File Class CD3 (elem) 30.mp3
+	New English File Class CD3 (elem) 31.mp3
+	New English File Class CD3 (elem) 32.mp3
+	New English File Class CD3 (elem) 33.mp3
+	New English File Class CD3 (elem) 34.mp3
+	New English File Class CD3 (elem) 35.mp3
+	New English File Class CD3 (elem) 36.mp3
+	New English File Class CD3 (elem) 37.mp3
+	New English File Class CD3 (elem) 38.mp3
+	New English File Class CD3 (elem) 39.mp3
+	New English File Class CD3 (elem) 40.mp3
+	New English File Class CD3 (elem) 41.mp3
+	New English File Class CD3 (elem) 42.mp3
+	New English File Pre-Intermediate - Student's Book.pdf
+	main.py
+	Queue.json
+	queue.py
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+Всего файлов скопированно: 208
+Время завершения: 2017-09-22 20:58:04.230378
+Затраченное время: 19.120394
+Копирование файлов.
+Время начала: 2017-09-24 16:28:34.808237
+Файлы: 
+	main.py
+	Queue.json
+	queue.py
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD1 (elem) 10.mp3
+	New English File Class CD1 (elem) 11.mp3
+	New English File Class CD1 (elem) 12.mp3
+	New English File Class CD1 (elem) 13.mp3
+	New English File Class CD1 (elem) 14.mp3
+	New English File Class CD1 (elem) 15.mp3
+	New English File Class CD1 (elem) 16.mp3
+	New English File Class CD1 (elem) 17.mp3
+	New English File Class CD1 (elem) 18.mp3
+	New English File Class CD1 (elem) 19.mp3
+	New English File Class CD1 (elem) 20.mp3
+	New English File Class CD1 (elem) 21.mp3
+	New English File Class CD1 (elem) 22.mp3
+	New English File Class CD1 (elem) 23.mp3
+	New English File Class CD1 (elem) 24.mp3
+	New English File Class CD1 (elem) 25.mp3
+	New English File Class CD1 (elem) 26.mp3
+	New English File Class CD1 (elem) 27.mp3
+	New English File Class CD1 (elem) 28.mp3
+	New English File Class CD1 (elem) 29.mp3
+	New English File Class CD1 (elem) 30.mp3
+	New English File Class CD1 (elem) 31.mp3
+	New English File Class CD1 (elem) 32.mp3
+	New English File Class CD1 (elem) 33.mp3
+	New English File Class CD1 (elem) 34.mp3
+	New English File Class CD1 (elem) 35.mp3
+	New English File Class CD1 (elem) 36.mp3
+	New English File Class CD1 (elem) 37.mp3
+	New English File Class CD1 (elem) 38.mp3
+	New English File Class CD1 (elem) 39.mp3
+	New English File Class CD1 (elem) 40.mp3
+	New English File Class CD1 (elem) 41.mp3
+	New English File Class CD1 (elem) 42.mp3
+	New English File Class CD1 (elem) 43.mp3
+	New English File Class CD1 (elem) 44.mp3
+	New English File Class CD1 (elem) 45.mp3
+	New English File Class CD1 (elem) 46.mp3
+	New English File Class CD1 (elem) 47.mp3
+	New English File Class CD1 (elem) 48.mp3
+	New English File Class CD1 (elem) 49.mp3
+	New English File Class CD1 (elem) 50.mp3
+	New English File Class CD1 (elem) 51.mp3
+	New English File Class CD1 (elem) 52.mp3
+	New English File Class CD1 (elem) 53.mp3
+	New English File Class CD1 (elem) 54.mp3
+	New English File Class CD1 (elem) 55.mp3
+	New English File Class CD1 (elem) 56.mp3
+	New English File Class CD1 (elem) 57.mp3
+	New English File Class CD1 (elem) 58.mp3
+	New English File Class CD1 (elem) 59.mp3
+	New English File Class CD1 (elem) 60.mp3
+	New English File Class CD1 (elem) 61.mp3
+	New English File Class CD1 (elem) 62.mp3
+	New English File Class CD1 (elem) 63.mp3
+	New English File Class CD1 (elem) 64.mp3
+	New English File Class CD1 (elem) 65.mp3
+	New English File Class CD1 (elem) 66.mp3
+	New English File Class CD1 (elem) 67.mp3
+	New English File Class CD1 (elem) 68.mp3
+	New English File Class CD1 (elem) 69.mp3
+	New English File Class CD1 (elem) 70.mp3
+	New English File Class CD1 (elem) 71.mp3
+	New English File Class CD1 (elem) 72.mp3
+	New English File Class CD1 (elem) 73.mp3
+	New English File Class CD1 (elem) 74.mp3
+	New English File Class CD1 (elem) 75.mp3
+	New English File Class CD1 (elem) 76.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD2 (elem) 10.mp3
+	New English File Class CD2 (elem) 11.mp3
+	New English File Class CD2 (elem) 12.mp3
+	New English File Class CD2 (elem) 13.mp3
+	New English File Class CD2 (elem) 14.mp3
+	New English File Class CD2 (elem) 15.mp3
+	New English File Class CD2 (elem) 16.mp3
+	New English File Class CD2 (elem) 17.mp3
+	New English File Class CD2 (elem) 18.mp3
+	New English File Class CD2 (elem) 19.mp3
+	New English File Class CD2 (elem) 20.mp3
+	New English File Class CD2 (elem) 21.mp3
+	New English File Class CD2 (elem) 22.mp3
+	New English File Class CD2 (elem) 23.mp3
+	New English File Class CD2 (elem) 24.mp3
+	New English File Class CD2 (elem) 25.mp3
+	New English File Class CD2 (elem) 26.mp3
+	New English File Class CD2 (elem) 27.mp3
+	New English File Class CD2 (elem) 28.mp3
+	New English File Class CD2 (elem) 29.mp3
+	New English File Class CD2 (elem) 30.mp3
+	New English File Class CD2 (elem) 31.mp3
+	New English File Class CD2 (elem) 32.mp3
+	New English File Class CD2 (elem) 33.mp3
+	New English File Class CD2 (elem) 34.mp3
+	New English File Class CD2 (elem) 35.mp3
+	New English File Class CD2 (elem) 36.mp3
+	New English File Class CD2 (elem) 37.mp3
+	New English File Class CD2 (elem) 38.mp3
+	New English File Class CD2 (elem) 39.mp3
+	New English File Class CD2 (elem) 40.mp3
+	New English File Class CD2 (elem) 41.mp3
+	New English File Class CD2 (elem) 42.mp3
+	New English File Class CD2 (elem) 43.mp3
+	New English File Class CD2 (elem) 44.mp3
+	New English File Class CD2 (elem) 45.mp3
+	New English File Class CD2 (elem) 46.mp3
+	New English File Class CD2 (elem) 47.mp3
+	New English File Class CD2 (elem) 48.mp3
+	New English File Class CD2 (elem) 49.mp3
+	New English File Class CD2 (elem) 50.mp3
+	New English File Class CD2 (elem) 51.mp3
+	New English File Class CD2 (elem) 52.mp3
+	New English File Class CD2 (elem) 53.mp3
+	New English File Class CD2 (elem) 54.mp3
+	New English File Class CD2 (elem) 55.mp3
+	New English File Class CD2 (elem) 56.mp3
+	New English File Class CD2 (elem) 57.mp3
+	New English File Class CD2 (elem) 58.mp3
+	New English File Class CD2 (elem) 59.mp3
+	New English File Class CD2 (elem) 60.mp3
+	New English File Class CD2 (elem) 61.mp3
+	New English File Class CD2 (elem) 62.mp3
+	New English File Class CD2 (elem) 63.mp3
+	New English File Class CD2 (elem) 64.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+	New English File Class CD3 (elem) 10.mp3
+	New English File Class CD3 (elem) 11.mp3
+	New English File Class CD3 (elem) 12.mp3
+	New English File Class CD3 (elem) 13.mp3
+	New English File Class CD3 (elem) 14.mp3
+	New English File Class CD3 (elem) 15.mp3
+	New English File Class CD3 (elem) 16.mp3
+	New English File Class CD3 (elem) 17.mp3
+	New English File Class CD3 (elem) 18.mp3
+	New English File Class CD3 (elem) 19.mp3
+	New English File Class CD3 (elem) 20.mp3
+	New English File Class CD3 (elem) 21.mp3
+	New English File Class CD3 (elem) 22.mp3
+	New English File Class CD3 (elem) 23.mp3
+	New English File Class CD3 (elem) 24.mp3
+	New English File Class CD3 (elem) 25.mp3
+	New English File Class CD3 (elem) 26.mp3
+	New English File Class CD3 (elem) 27.mp3
+	New English File Class CD3 (elem) 28.mp3
+	New English File Class CD3 (elem) 29.mp3
+	New English File Class CD3 (elem) 30.mp3
+	New English File Class CD3 (elem) 31.mp3
+	New English File Class CD3 (elem) 32.mp3
+	New English File Class CD3 (elem) 33.mp3
+	New English File Class CD3 (elem) 34.mp3
+	New English File Class CD3 (elem) 35.mp3
+	New English File Class CD3 (elem) 36.mp3
+	New English File Class CD3 (elem) 37.mp3
+	New English File Class CD3 (elem) 38.mp3
+	New English File Class CD3 (elem) 39.mp3
+	New English File Class CD3 (elem) 40.mp3
+	New English File Class CD3 (elem) 41.mp3
+	New English File Class CD3 (elem) 42.mp3
+	New English File Pre-Intermediate - Student's Book.pdf
+Всего файлов скопированно: 208
+Время завершения: 2017-09-24 16:30:13.749933
+Затраченное время: 98.941696
+Копирование файлов.
+Время начала: 2017-09-26 00:14:15.977976
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:15:54.084636
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:16:38.345220
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD1 (elem) 10.mp3
+	New English File Class CD1 (elem) 11.mp3
+	New English File Class CD1 (elem) 12.mp3
+	New English File Class CD1 (elem) 13.mp3
+	New English File Class CD1 (elem) 14.mp3
+	New English File Class CD1 (elem) 15.mp3
+	New English File Class CD1 (elem) 16.mp3
+	New English File Class CD1 (elem) 17.mp3
+	New English File Class CD1 (elem) 18.mp3
+	New English File Class CD1 (elem) 19.mp3
+	New English File Class CD1 (elem) 20.mp3
+	New English File Class CD1 (elem) 21.mp3
+	New English File Class CD1 (elem) 22.mp3
+	New English File Class CD1 (elem) 23.mp3
+	New English File Class CD1 (elem) 24.mp3
+	New English File Class CD1 (elem) 25.mp3
+	New English File Class CD1 (elem) 26.mp3
+	New English File Class CD1 (elem) 27.mp3
+	New English File Class CD1 (elem) 28.mp3
+	New English File Class CD1 (elem) 29.mp3
+	New English File Class CD1 (elem) 30.mp3
+	New English File Class CD1 (elem) 31.mp3
+	New English File Class CD1 (elem) 32.mp3
+	New English File Class CD1 (elem) 33.mp3
+	New English File Class CD1 (elem) 34.mp3
+	New English File Class CD1 (elem) 35.mp3
+	New English File Class CD1 (elem) 36.mp3
+	New English File Class CD1 (elem) 37.mp3
+	New English File Class CD1 (elem) 38.mp3
+	New English File Class CD1 (elem) 39.mp3
+	New English File Class CD1 (elem) 40.mp3
+	New English File Class CD1 (elem) 41.mp3
+	New English File Class CD1 (elem) 42.mp3
+	New English File Class CD1 (elem) 43.mp3
+	New English File Class CD1 (elem) 44.mp3
+	New English File Class CD1 (elem) 45.mp3
+	New English File Class CD1 (elem) 46.mp3
+	New English File Class CD1 (elem) 47.mp3
+	New English File Class CD1 (elem) 48.mp3
+	New English File Class CD1 (elem) 49.mp3
+	New English File Class CD1 (elem) 50.mp3
+	New English File Class CD1 (elem) 51.mp3
+	New English File Class CD1 (elem) 52.mp3
+	New English File Class CD1 (elem) 53.mp3
+	New English File Class CD1 (elem) 54.mp3
+	New English File Class CD1 (elem) 55.mp3
+	New English File Class CD1 (elem) 56.mp3
+	New English File Class CD1 (elem) 57.mp3
+	New English File Class CD1 (elem) 58.mp3
+	New English File Class CD1 (elem) 59.mp3
+	New English File Class CD1 (elem) 60.mp3
+	New English File Class CD1 (elem) 61.mp3
+	New English File Class CD1 (elem) 62.mp3
+	New English File Class CD1 (elem) 63.mp3
+	New English File Class CD1 (elem) 64.mp3
+	New English File Class CD1 (elem) 65.mp3
+	New English File Class CD1 (elem) 66.mp3
+	New English File Class CD1 (elem) 67.mp3
+	New English File Class CD1 (elem) 68.mp3
+	New English File Class CD1 (elem) 69.mp3
+	New English File Class CD1 (elem) 70.mp3
+	New English File Class CD1 (elem) 71.mp3
+	New English File Class CD1 (elem) 72.mp3
+	New English File Class CD1 (elem) 73.mp3
+	New English File Class CD1 (elem) 74.mp3
+	New English File Class CD1 (elem) 75.mp3
+	New English File Class CD1 (elem) 76.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD2 (elem) 10.mp3
+	New English File Class CD2 (elem) 11.mp3
+	New English File Class CD2 (elem) 12.mp3
+	New English File Class CD2 (elem) 13.mp3
+	New English File Class CD2 (elem) 14.mp3
+	New English File Class CD2 (elem) 15.mp3
+	New English File Class CD2 (elem) 16.mp3
+	New English File Class CD2 (elem) 17.mp3
+	New English File Class CD2 (elem) 18.mp3
+	New English File Class CD2 (elem) 19.mp3
+	New English File Class CD2 (elem) 20.mp3
+	New English File Class CD2 (elem) 21.mp3
+	New English File Class CD2 (elem) 22.mp3
+	New English File Class CD2 (elem) 23.mp3
+	New English File Class CD2 (elem) 24.mp3
+	New English File Class CD2 (elem) 25.mp3
+	New English File Class CD2 (elem) 26.mp3
+	New English File Class CD2 (elem) 27.mp3
+	New English File Class CD2 (elem) 28.mp3
+	New English File Class CD2 (elem) 29.mp3
+	New English File Class CD2 (elem) 30.mp3
+	New English File Class CD2 (elem) 31.mp3
+	New English File Class CD2 (elem) 32.mp3
+	New English File Class CD2 (elem) 33.mp3
+	New English File Class CD2 (elem) 34.mp3
+	New English File Class CD2 (elem) 35.mp3
+	New English File Class CD2 (elem) 36.mp3
+	New English File Class CD2 (elem) 37.mp3
+	New English File Class CD2 (elem) 38.mp3
+	New English File Class CD2 (elem) 39.mp3
+	New English File Class CD2 (elem) 40.mp3
+	New English File Class CD2 (elem) 41.mp3
+	New English File Class CD2 (elem) 42.mp3
+	New English File Class CD2 (elem) 43.mp3
+	New English File Class CD2 (elem) 44.mp3
+	New English File Class CD2 (elem) 45.mp3
+	New English File Class CD2 (elem) 46.mp3
+	New English File Class CD2 (elem) 47.mp3
+	New English File Class CD2 (elem) 48.mp3
+	New English File Class CD2 (elem) 49.mp3
+	New English File Class CD2 (elem) 50.mp3
+	New English File Class CD2 (elem) 51.mp3
+	New English File Class CD2 (elem) 52.mp3
+	New English File Class CD2 (elem) 53.mp3
+	New English File Class CD2 (elem) 54.mp3
+	New English File Class CD2 (elem) 55.mp3
+	New English File Class CD2 (elem) 56.mp3
+	New English File Class CD2 (elem) 57.mp3
+	New English File Class CD2 (elem) 58.mp3
+	New English File Class CD2 (elem) 59.mp3
+	New English File Class CD2 (elem) 60.mp3
+	New English File Class CD2 (elem) 61.mp3
+	New English File Class CD2 (elem) 62.mp3
+	New English File Class CD2 (elem) 63.mp3
+	New English File Class CD2 (elem) 64.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+	New English File Class CD3 (elem) 10.mp3
+	New English File Class CD3 (elem) 11.mp3
+	New English File Class CD3 (elem) 12.mp3
+	New English File Class CD3 (elem) 13.mp3
+	New English File Class CD3 (elem) 14.mp3
+	New English File Class CD3 (elem) 15.mp3
+	New English File Class CD3 (elem) 16.mp3
+	New English File Class CD3 (elem) 17.mp3
+	New English File Class CD3 (elem) 18.mp3
+	New English File Class CD3 (elem) 19.mp3
+	New English File Class CD3 (elem) 20.mp3
+	New English File Class CD3 (elem) 21.mp3
+	New English File Class CD3 (elem) 22.mp3
+	New English File Class CD3 (elem) 23.mp3
+	New English File Class CD3 (elem) 24.mp3
+	New English File Class CD3 (elem) 25.mp3
+	New English File Class CD3 (elem) 26.mp3
+	New English File Class CD3 (elem) 27.mp3
+	New English File Class CD3 (elem) 28.mp3
+	New English File Class CD3 (elem) 29.mp3
+	New English File Class CD3 (elem) 30.mp3
+	New English File Class CD3 (elem) 31.mp3
+	New English File Class CD3 (elem) 32.mp3
+	New English File Class CD3 (elem) 33.mp3
+	New English File Class CD3 (elem) 34.mp3
+	New English File Class CD3 (elem) 35.mp3
+	New English File Class CD3 (elem) 36.mp3
+	New English File Class CD3 (elem) 37.mp3
+	New English File Class CD3 (elem) 38.mp3
+	New English File Class CD3 (elem) 39.mp3
+	New English File Class CD3 (elem) 40.mp3
+	New English File Class CD3 (elem) 41.mp3
+	New English File Class CD3 (elem) 42.mp3
+	New English File Pre-Intermediate - Student's Book.pdf
+	main.py
+	Queue.json
+	queue.py
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+Всего файлов скопированно: 208
+Время завершения: 2017-09-26 00:16:40.752037
+Затраченное время: 2.406817
+Копирование файлов.
+Время начала: 2017-09-26 00:17:51.261145
+Файлы: 
+	main.py
+	Queue.json
+	queue.py
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+Копирование файлов.
+Время начала: 2017-09-26 00:33:48.567262
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD1 (elem) 10.mp3
+	New English File Class CD1 (elem) 11.mp3
+	New English File Class CD1 (elem) 12.mp3
+	New English File Class CD1 (elem) 13.mp3
+	New English File Class CD1 (elem) 14.mp3
+	New English File Class CD1 (elem) 15.mp3
+	New English File Class CD1 (elem) 16.mp3
+	New English File Class CD1 (elem) 17.mp3
+	New English File Class CD1 (elem) 18.mp3
+	New English File Class CD1 (elem) 19.mp3
+	New English File Class CD1 (elem) 20.mp3
+	New English File Class CD1 (elem) 21.mp3
+	New English File Class CD1 (elem) 22.mp3
+	New English File Class CD1 (elem) 23.mp3
+	New English File Class CD1 (elem) 24.mp3
+	New English File Class CD1 (elem) 25.mp3
+	New English File Class CD1 (elem) 26.mp3
+	New English File Class CD1 (elem) 27.mp3
+	New English File Class CD1 (elem) 28.mp3
+	New English File Class CD1 (elem) 29.mp3
+	New English File Class CD1 (elem) 30.mp3
+	New English File Class CD1 (elem) 31.mp3
+	New English File Class CD1 (elem) 32.mp3
+	New English File Class CD1 (elem) 33.mp3
+	New English File Class CD1 (elem) 34.mp3
+	New English File Class CD1 (elem) 35.mp3
+	New English File Class CD1 (elem) 36.mp3
+	New English File Class CD1 (elem) 37.mp3
+	New English File Class CD1 (elem) 38.mp3
+	New English File Class CD1 (elem) 39.mp3
+	New English File Class CD1 (elem) 40.mp3
+	New English File Class CD1 (elem) 41.mp3
+	New English File Class CD1 (elem) 42.mp3
+	New English File Class CD1 (elem) 43.mp3
+	New English File Class CD1 (elem) 44.mp3
+	New English File Class CD1 (elem) 45.mp3
+	New English File Class CD1 (elem) 46.mp3
+	New English File Class CD1 (elem) 47.mp3
+	New English File Class CD1 (elem) 48.mp3
+	New English File Class CD1 (elem) 49.mp3
+	New English File Class CD1 (elem) 50.mp3
+	New English File Class CD1 (elem) 51.mp3
+	New English File Class CD1 (elem) 52.mp3
+	New English File Class CD1 (elem) 53.mp3
+	New English File Class CD1 (elem) 54.mp3
+	New English File Class CD1 (elem) 55.mp3
+	New English File Class CD1 (elem) 56.mp3
+	New English File Class CD1 (elem) 57.mp3
+	New English File Class CD1 (elem) 58.mp3
+	New English File Class CD1 (elem) 59.mp3
+	New English File Class CD1 (elem) 60.mp3
+	New English File Class CD1 (elem) 61.mp3
+	New English File Class CD1 (elem) 62.mp3
+	New English File Class CD1 (elem) 63.mp3
+	New English File Class CD1 (elem) 64.mp3
+	New English File Class CD1 (elem) 65.mp3
+	New English File Class CD1 (elem) 66.mp3
+	New English File Class CD1 (elem) 67.mp3
+	New English File Class CD1 (elem) 68.mp3
+	New English File Class CD1 (elem) 69.mp3
+	New English File Class CD1 (elem) 70.mp3
+	New English File Class CD1 (elem) 71.mp3
+	New English File Class CD1 (elem) 72.mp3
+	New English File Class CD1 (elem) 73.mp3
+	New English File Class CD1 (elem) 74.mp3
+	New English File Class CD1 (elem) 75.mp3
+	New English File Class CD1 (elem) 76.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD2 (elem) 10.mp3
+	New English File Class CD2 (elem) 11.mp3
+	New English File Class CD2 (elem) 12.mp3
+	New English File Class CD2 (elem) 13.mp3
+	New English File Class CD2 (elem) 14.mp3
+	New English File Class CD2 (elem) 15.mp3
+	New English File Class CD2 (elem) 16.mp3
+	New English File Class CD2 (elem) 17.mp3
+	New English File Class CD2 (elem) 18.mp3
+	New English File Class CD2 (elem) 19.mp3
+	New English File Class CD2 (elem) 20.mp3
+	New English File Class CD2 (elem) 21.mp3
+	New English File Class CD2 (elem) 22.mp3
+	New English File Class CD2 (elem) 23.mp3
+	New English File Class CD2 (elem) 24.mp3
+	New English File Class CD2 (elem) 25.mp3
+	New English File Class CD2 (elem) 26.mp3
+	New English File Class CD2 (elem) 27.mp3
+	New English File Class CD2 (elem) 28.mp3
+	New English File Class CD2 (elem) 29.mp3
+	New English File Class CD2 (elem) 30.mp3
+	New English File Class CD2 (elem) 31.mp3
+	New English File Class CD2 (elem) 32.mp3
+	New English File Class CD2 (elem) 33.mp3
+	New English File Class CD2 (elem) 34.mp3
+	New English File Class CD2 (elem) 35.mp3
+	New English File Class CD2 (elem) 36.mp3
+	New English File Class CD2 (elem) 37.mp3
+	New English File Class CD2 (elem) 38.mp3
+	New English File Class CD2 (elem) 39.mp3
+	New English File Class CD2 (elem) 40.mp3
+	New English File Class CD2 (elem) 41.mp3
+	New English File Class CD2 (elem) 42.mp3
+	New English File Class CD2 (elem) 43.mp3
+	New English File Class CD2 (elem) 44.mp3
+	New English File Class CD2 (elem) 45.mp3
+	New English File Class CD2 (elem) 46.mp3
+	New English File Class CD2 (elem) 47.mp3
+	New English File Class CD2 (elem) 48.mp3
+	New English File Class CD2 (elem) 49.mp3
+	New English File Class CD2 (elem) 50.mp3
+	New English File Class CD2 (elem) 51.mp3
+	New English File Class CD2 (elem) 52.mp3
+	New English File Class CD2 (elem) 53.mp3
+	New English File Class CD2 (elem) 54.mp3
+	New English File Class CD2 (elem) 55.mp3
+	New English File Class CD2 (elem) 56.mp3
+	New English File Class CD2 (elem) 57.mp3
+	New English File Class CD2 (elem) 58.mp3
+	New English File Class CD2 (elem) 59.mp3
+	New English File Class CD2 (elem) 60.mp3
+	New English File Class CD2 (elem) 61.mp3
+	New English File Class CD2 (elem) 62.mp3
+	New English File Class CD2 (elem) 63.mp3
+	New English File Class CD2 (elem) 64.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+	New English File Class CD3 (elem) 10.mp3
+	New English File Class CD3 (elem) 11.mp3
+	New English File Class CD3 (elem) 12.mp3
+	New English File Class CD3 (elem) 13.mp3
+	New English File Class CD3 (elem) 14.mp3
+	New English File Class CD3 (elem) 15.mp3
+	New English File Class CD3 (elem) 16.mp3
+	New English File Class CD3 (elem) 17.mp3
+	New English File Class CD3 (elem) 18.mp3
+	New English File Class CD3 (elem) 19.mp3
+	New English File Class CD3 (elem) 20.mp3
+	New English File Class CD3 (elem) 21.mp3
+	New English File Class CD3 (elem) 22.mp3
+	New English File Class CD3 (elem) 23.mp3
+	New English File Class CD3 (elem) 24.mp3
+	New English File Class CD3 (elem) 25.mp3
+	New English File Class CD3 (elem) 26.mp3
+	New English File Class CD3 (elem) 27.mp3
+	New English File Class CD3 (elem) 28.mp3
+	New English File Class CD3 (elem) 29.mp3
+	New English File Class CD3 (elem) 30.mp3
+	New English File Class CD3 (elem) 31.mp3
+	New English File Class CD3 (elem) 32.mp3
+	New English File Class CD3 (elem) 33.mp3
+	New English File Class CD3 (elem) 34.mp3
+	New English File Class CD3 (elem) 35.mp3
+	New English File Class CD3 (elem) 36.mp3
+	New English File Class CD3 (elem) 37.mp3
+	New English File Class CD3 (elem) 38.mp3
+	New English File Class CD3 (elem) 39.mp3
+	New English File Class CD3 (elem) 40.mp3
+	New English File Class CD3 (elem) 41.mp3
+	New English File Class CD3 (elem) 42.mp3
+	New English File Pre-Intermediate - Student's Book.pdf
+	task_10_05_01
+	task_10_05_02
+	task_10_05_03
+	task_11_05_01
+	task_11_05_02
+	task_11_05_03
+	task_12_05_01
+	task_12_05_02
+	task_12_05_03
+	task_13_05_01
+	task_13_05_02
+	task_13_05_03
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+Всего файлов скопированно: 217
+Время завершения: 2017-09-26 00:34:11.408371
+Затраченное время: 22.841109
+Копирование файлов.
+Время начала: 2017-09-26 00:38:08.343546
+Файлы: 
+	task_10_05_01
+	task_10_05_02
+	task_10_05_03
+	task_11_05_01
+	task_11_05_02
+	task_11_05_03
+	task_12_05_01
+	task_12_05_02
+	task_12_05_03
+	task_13_05_01
+	task_13_05_02
+	task_13_05_03
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+Всего файлов скопированно: 33
+Время завершения: 2017-09-26 00:38:10.285176
+Затраченное время: 1.94163
+Копирование файлов.
+Время начала: 2017-09-26 00:39:20.246515
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:39:53.586909
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:40:21.223147
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:40:59.109593
+Файлы: 
+	task_10_05_01
+	task_10_05_02
+	task_10_05_03
+	task_11_05_01
+	task_11_05_02
+	task_11_05_03
+	task_12_05_01
+	task_12_05_02
+	task_12_05_03
+	task_13_05_01
+	task_13_05_02
+	task_13_05_03
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+Всего файлов скопированно: 33
+Время завершения: 2017-09-26 00:41:01.402453
+Затраченное время: 2.29286
+Копирование файлов.
+Время начала: 2017-09-26 00:42:09.963496
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:44:02.247696
+Файлы: 
+Копирование файлов.
+Время начала: 2017-09-26 00:45:42.262477
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Копирование файлов.
+Время начала: 2017-09-26 00:51:02.217492
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Всего файлов скопированно: 28
+Время завершения: 2017-09-26 00:51:31.076607
+Затраченное время: 28.859115
+Копирование файлов.
+Время начала: 2017-09-26 00:54:26.685977
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Всего файлов скопированно: 28
+Время завершения: 2017-09-26 00:54:44.736749
+Затраченное время: 18.050772
+Во время работы возникла ошибки:
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_03'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_11_05_01'
+Копирование файлов.
+Время начала: 2017-09-26 00:55:49.400717
+Файлы: 
+	task_10_05_01
+	task_10_05_02
+	task_10_05_03
+	task_11_05_01
+	task_11_05_03
+	task_12_05_01
+	task_12_05_02
+	task_12_05_03
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Всего файлов скопированно: 36
+Время завершения: 2017-09-26 00:56:12.688431
+Затраченное время: 23.287714
+Копирование файлов.
+Время начала: 2017-09-26 00:56:45.535730
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+	task_11_05_02
+Копирование файлов.
+Время начала: 2017-09-26 00:58:15.613812
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+	task_13_05_01
+	task_13_05_02
+	task_13_05_03
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	HW #11.cs
+	HW #12.cs
+	HW #13.cs
+	HW #14.cs
+	HW #15.cs
+	HW #16.cs
+	HW #17.cs
+	HW #2.cs
+	HW #3.cs
+	HW #4.cs
+	HW #5.cs
+	HW #6.cs
+	HW #7.cs
+	HW #8.cs
+	HW #9.cs
+Всего файлов скопированно: 52
+Время завершения: 2017-09-26 00:58:16.184773
+Затраченное время: 0.570961
+Во время работы возникла ошибки:
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_03'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_11_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_11_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_11_05_03'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_12_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_12_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_12_05_03'
+Копирование файлов.
+Время начала: 2017-09-26 01:00:14.064615
+Файлы: 
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Всего файлов скопированно: 33
+Время завершения: 2017-09-26 01:00:39.142928
+Затраченное время: 25.078313
+Во время работы возникла ошибки:
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_03'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_11_05_01'
+Копирование файлов.
+Время начала: 2017-09-26 01:11:09.544430
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Копирование файлов.
+Время начала: 2017-09-26 01:13:41.658196
+Файлы: 
+	print_unicode.py
+	print_unicode_uni.py
+	quadratic_uni.py
+	unicode-table.txt
+	HW #1.cs
+	HW #10.cs
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Всего файлов скопированно: 34
+Время завершения: 2017-09-26 01:14:05.026189
+Затраченное время: 23.367993
+Во время работы возникли ошибки:
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_13_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_13_05_03'
+Копирование файлов.
+Время начала: 2017-10-10 01:29:11.486818
+Файлы: 
+	New English File Class CD1 (elem) 00.mp3
+	New English File Class CD1 (elem) 01.mp3
+	New English File Class CD1 (elem) 02.mp3
+	New English File Class CD1 (elem) 03.mp3
+	New English File Class CD1 (elem) 04.mp3
+	New English File Class CD1 (elem) 05.mp3
+	New English File Class CD1 (elem) 06.mp3
+	New English File Class CD1 (elem) 07.mp3
+	New English File Class CD1 (elem) 08.mp3
+	New English File Class CD1 (elem) 09.mp3
+	New English File Class CD2 (elem) 01.mp3
+	New English File Class CD2 (elem) 02.mp3
+	New English File Class CD2 (elem) 03.mp3
+	New English File Class CD2 (elem) 04.mp3
+	New English File Class CD2 (elem) 05.mp3
+	New English File Class CD2 (elem) 06.mp3
+	New English File Class CD2 (elem) 07.mp3
+	New English File Class CD2 (elem) 08.mp3
+	New English File Class CD2 (elem) 09.mp3
+	New English File Class CD3 (elem) 01.mp3
+	New English File Class CD3 (elem) 02.mp3
+	New English File Class CD3 (elem) 03.mp3
+	New English File Class CD3 (elem) 04.mp3
+	New English File Class CD3 (elem) 05.mp3
+	New English File Class CD3 (elem) 06.mp3
+	New English File Class CD3 (elem) 07.mp3
+	New English File Class CD3 (elem) 08.mp3
+	New English File Class CD3 (elem) 09.mp3
+Всего файлов скопированно: 28
+Время завершения: 2017-10-10 01:29:35.751133
+Затраченное время: 24.264315
+Во время работы возникли ошибки:
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_01'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_02'
+	<class 'FileExistsError'>, [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\Users\\Owner\\Documents\\test\\inf1\\task_10_05_03'

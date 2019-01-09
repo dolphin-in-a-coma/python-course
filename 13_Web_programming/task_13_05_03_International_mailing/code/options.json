@@ -1,0 +1,11 @@
+{
+    "yandex":{
+        "api_key": "trnsl.1.1.20170618T185805Z.59d99580dd6e9dd9.43144e596cd6d52c183baed01430ab564c69ce1d"
+    },
+    "clients":[{"name": "Vegy", "email": "vegansneacker@gmail.com", "language": "ru"},
+                {"name": "Vegy", "email": "eugenartemovich@gmail.com", "language": "en"},
+                {"name": "Eugene", "email": "vegansneacker@gmail.com", "language": "ru"},
+                {"name": "Eugene", "email": "eugenartemovich@gmail.com", "language": "en"}
+    
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "plot":{
+        "period":[
+            2000,
+            2015
+        ],
+        "countries":[
+            "United States",
+            "China",
+            "Japan",
+            "Germany",
+            "United Kingdom",
+            "France",
+            "India",
+            "Italy",
+            "Brazil",
+            "Canada",
+            "Korea, Rep.",
+            "Australia",
+            "Russian Federation",
+            "Spain",
+            "Mexico",
+            "Indonesia",
+            "Netherlands",
+            "Turkey",
+            "Switzerland",
+            "Saudi Arabia"
+        ]
+    },
+    "hist":{
+        "bins": 10
+    },
+    "pie":{
+        "name":"Asia-Pacific Economic Cooperation",
+        "countries":[
+            "Vietnam",
+            "United States",
+            "Philippines",
+            "Thailand",
+            "Singapore",
+            "Russia",
+            "Korea, Rep.",
+            "Peru",
+            "China",
+            "Papua New Guinea",
+            "New Zealand",
+            "Mexico",
+            "Malaysia",
+            "Japan",
+            "Indonesia",
+            "\"Hong Kong SAR, China\"",
+            "Taiwan",
+            "Chile",
+            "Canada",
+            "Brunei",
+            "Australia"
+        ]
+    }
+}

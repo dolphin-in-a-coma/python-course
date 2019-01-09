@@ -1,0 +1,38 @@
+{
+    "log_filename":"log.txt",
+    "projects":{
+        "inf":{
+            "folders":[
+                {
+                    "src":"C:\\Users\\Owner\\Documents\\uni\\python\\Course Work",
+                    "dest":"C:\\Users\\Owner\\Documents\\test\\inf1"
+                },
+                {
+                    "src":"C:\\Users\\Owner\\Documents\\uni\\python\\samfield",
+                    "dest":"C:\\Users\\Owner\\Documents\\test\\inf2"
+                },
+                {
+                    "src":"C:\\Users\\Owner\\Documents\\uni\\stud\\C#",
+                    "dest":"C:\\Users\\Owner\\Documents\\test\\inf3"
+                }
+            ],
+            "options":{
+                "confirm":true,
+                "template":false
+            }
+                
+        },
+        "eng":{
+            "folders":[
+                {
+                    "src":"C:\\Users\\Owner\\Documents\\uni\\eng\\eng",
+                    "dest":"C:\\Users\\Owner\\Documents\\test\\eng"
+                }
+            ],
+            "options":{
+                "confirm":false,
+                "template":"New English File Class CD\\d \\(elem\\) 0\\d\\.mp3"
+            }
+        }
+    }
+}
